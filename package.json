@@ -1,0 +1,24 @@
+{
+  "name": "printsysmanagermiddle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dianPrint/printSysManagerMiddle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dianPrint/printSysManagerMiddle/issues"
+  },
+  "homepage": "https://github.com/dianPrint/printSysManagerMiddle#readme",
+  "dependencies": {
+    "koa": "^2.5.3",
+    "koa-router": "^7.4.0",
+    "pg": "^7.4.3"
+  }
+}
